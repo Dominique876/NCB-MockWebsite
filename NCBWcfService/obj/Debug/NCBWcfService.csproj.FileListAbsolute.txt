@@ -1,0 +1,7 @@
+E:\Enterprise Computing 2\NCBWcfService\bin\NCBWcfService.dll.config
+E:\Enterprise Computing 2\NCBWcfService\bin\NCBWcfService.dll
+E:\Enterprise Computing 2\NCBWcfService\bin\NCBWcfService.pdb
+E:\Enterprise Computing 2\NCBWcfService\obj\Debug\NCBWcfService.csprojAssemblyReference.cache
+E:\Enterprise Computing 2\NCBWcfService\obj\Debug\NCBWcfService.csproj.CoreCompileInputs.cache
+E:\Enterprise Computing 2\NCBWcfService\obj\Debug\NCBWcfService.dll
+E:\Enterprise Computing 2\NCBWcfService\obj\Debug\NCBWcfService.pdb
